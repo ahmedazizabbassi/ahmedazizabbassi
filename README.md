@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- ⏳ I'm currently working on E-commerce Solution
+- ⏳ I'm currently working on E-commerce Solutions
 - 💧 I’m currently working on Drupal Mentored Projects in my free time
 - 🌱 I’m currently learning software engineering/design
 - 👯 I’m looking to collaborate on hacking labs
