@@ -10,4 +10,3 @@
 - 💬 Ask me about software development technologies
 - 📫 How to reach me: @ahmedazizabbassi
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: married
