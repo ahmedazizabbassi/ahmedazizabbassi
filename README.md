@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-- ⏳ I'm currently working on LegalTech Solutions
-- ⏳ I work on E-commerce Solutions
+- ⏳ I'm currently working on Web Solutions
 - 💧 I work on Drupal Mentored Projects in my free time
 - 👯 I’m looking to collaborate on hacking labs
 - 🤔 I’m looking for help with hacking labs
