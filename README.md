@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- ⏳ I'm currently working on Web Solutions
+- ⏳ I'm currently working on Flutter app (Himma)
 - ✅ I worked on E-commerce and legalTech solutions
 - 💧 I work on Drupal Mentored Projects in my free time
 - 👯 I’m looking to collaborate on hacking labs
